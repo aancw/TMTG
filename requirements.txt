@@ -2,4 +2,3 @@ argparse
 pandas
 matplotlib
 networkx
-json
